@@ -1,6 +1,10 @@
 # BTC_USDT_Trading_Model
 Algorithmic Trading Model Development for BTC/USDT Crypto Market. Crafting models that outperform benchmarks, balancing returns and risk management in the dynamic BTC/USDT market and **generating 238% return along with the max drawdown of 6.28%**.
 
+
+[Presentation](presentation.pdf)
+
+
 # Dataset:
 The original data ```btc_4h``` used in this project is historical BTC/USDT 4hrs data (January 1, 2018 to January 31, 2022).
 ![newplot (2)](https://github.com/A-SOLO/BTC_USDT_Trading_Model/assets/78963312/9a71c8e9-edc4-4631-860d-ae054bf30025)
@@ -20,6 +24,7 @@ The original data ```btc_4h``` used in this project is historical BTC/USDT 4hrs 
 
 # Strategy 2 : Gap Trading strategy with Moving Average (FY 2023)
 ![Gap_strat_with_Mo_AVG](https://github.com/user-attachments/assets/938e481a-bf25-4d1d-b717-94bca5824527)
+
 
 
 # Indicators:
